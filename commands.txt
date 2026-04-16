@@ -1,3 +1,0 @@
-1. ollama serve
-2. uvicorn api:app --reload
-3. npm run dev
